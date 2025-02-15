@@ -2,3 +2,7 @@
 ## Lab 4
 
 [https://cpit405.gitlab.io/labs/lab-4/](https://cpit405.gitlab.io/labs/lab-4/)
+
+## Screenshot
+
+![Screenshot 2025-02-15 194907](https://github.com/user-attachments/assets/8b2f5451-f337-4161-979f-6ca181143e78)
